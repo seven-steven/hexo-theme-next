@@ -121,14 +121,15 @@ menu:
   #about: /about/ || fa fa-user
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
+  geek: /categories/geek || fa fa-trophy
   coding: /categories/coding || fa fa-code
   notes: /categories/notes || fa fa-edit
-  geek: /categories/geek || fa fa-trophy
-  resources: /posts/learning-resources.html || fa fa-list
+  # resources: /posts/learning-resources.html || fa fa-list
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
   archives: /archives/ || fa fa-archive
+  bookmark: https://bookmark.diqigan.cn || fa fa-bookmark
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
