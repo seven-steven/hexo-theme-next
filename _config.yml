@@ -130,7 +130,7 @@ menu:
   #commonweal: /404/ || fa fa-heartbeat
   archives: /archives/ || fa fa-archive
   bookmark: https://bookmark.diqigan.cn || fa fa-bookmark
-  IDEA: https://idea.best.diqigan.cn/practices/ || fas fa-map-marker-alt
+  IDEA: https://idea.diqigan.cn/practices/ || fas fa-map-marker-alt
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
