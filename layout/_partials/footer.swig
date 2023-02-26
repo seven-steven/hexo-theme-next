@@ -49,7 +49,7 @@
       {%- set next_site = 'https://' + theme.scheme | lower + '.theme-next.org' %}
     {%- endif %}
     {{- __('footer.powered', next_url('https://hexo.io', 'Hexo', {class: 'theme-link'}) + ' & ' + next_url(next_site, 'NexT.' + theme.scheme, {class: 'theme-link'})) }}
-    | 图床支持 - <a href='https://www.dogedoge.com/'>dogedoge.com</a> | <a href='https://wanybug.cn'>王邦宇</a> - <a href='https://www.wanybug.com'>WanyBug</a>
+    | 图床支持 - <a href='https://www.dogedoge.com/'>dogedoge.com</a> | SSL - <a href='https://www.wanybug.com'>WanyBug</a>
   </div>
 {%- endif %}
 
