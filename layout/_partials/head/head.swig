@@ -58,4 +58,7 @@
   <script src="{{ pace_js_uri }}"></script>
 {%- endif %}
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7817611635296406"
+     crossorigin="anonymous"></script>
+
 {{ next_config() }}
